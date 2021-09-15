@@ -1,3 +1,4 @@
+#It's program where user suppose to have in mind his number and computers tries to guess it. Put small "h" if number is too high or "s" if too small or "c: if correct
 import random
 def computer_guess(x):
     low = 1
